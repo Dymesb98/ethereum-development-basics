@@ -1,7 +1,7 @@
 {
-  "name": "main_net_deploy",
+  "name": "ethereum-development-basics",
   "version": "1.0.0",
-  "description": "main_net_deploy",
+  "description": "ethereum-development-basics",
   "main": "truffle.js",
   "directories": {
     "test": "test"
